@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # The above line should always exist in a python node file.
 # This command execute the file as a python script.
 
