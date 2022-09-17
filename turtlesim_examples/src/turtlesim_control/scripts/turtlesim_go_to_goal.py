@@ -1,5 +1,7 @@
-#!/usr/bin/env python
-#!/usr/bin/env python
+#!/usr/bin/env python3
+#!/usr/bin/env python3
+# ^^^ its called shebang constructs 
+
 
 import rospy
 from geometry_msgs.msg import Twist
